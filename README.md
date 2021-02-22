@@ -1,7 +1,7 @@
 # SketchZooms: Deep multi-view descriptors for matching line drawings
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pablo1n7/SketchZoomsDeep/master/img_readme/teaser.jpg">
+  <img src="https://github.com/pablo1n7/SketchZoomsDeep/raw/main/img_readme/teaser.jpg">
 </p>
 
 
