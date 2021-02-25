@@ -55,13 +55,13 @@ python train_net.py --netname alexnet --nepoch 100 --lossname triplet --opt adm 
 
 ```
 
-netname: Type of network for training (alexnet, vgg, resnet).
-nepoch: Number of epochs.
-lossname: Type of loss (triplet, contrast).
-opt: Type of optimizer (adm, sgd).
-lr: Learning rate.
-device: Type of device for train. (cpu, cuda).
-envplotter: name of the environment inside of Visdom.
+*   **netname:** Type of network for training (alexnet, vgg, resnet).
+*   **nepoch:** Number of epochs.
+*   **lossname:** Type of loss (triplet, contrast).
+*   **opt:** Type of optimizer (adm, sgd).
+*   **lr:** Learning rate.
+*   **device:** Type of device for train. (cpu, cuda).
+*   **envplotter:** name of the environment inside of Visdom.
 
 
 
