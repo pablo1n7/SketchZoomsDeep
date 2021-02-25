@@ -30,8 +30,16 @@ SketchZoomsDeep
     ├── ..
     ├── pts_Car
 ```
+
+## Weights of a SketchZoom
+
+Download the weights [here](https://drive.google.com/file/d/1ctfZJ0OlVqH1HGgiRSyYAHeGUjauWz2N/view?usp=sharing)
             
-## Code
+## Examples
+
+## Train
+
+
 
 ## Citation
 
