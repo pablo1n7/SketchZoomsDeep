@@ -39,22 +39,29 @@ Download the weights [here](https://drive.google.com/file/d/1ctfZJ0OlVqH1HGgiRSy
 
 ## Train
 
+In a console, start visdom server for view the process of training
+
 ```bash
 
 visdom
 
 ```
 
+and them, execute this:
 
 ```bash
-python train_net.py 
-        --netname alexnet 
-        --nepoch 2 
-        --lossname triplet 
-        --opt adm 
-        --lr 0.0001 
-        --device cpu 
-        --envplotter main
+
+python train_net.py --netname alexnet --nepoch 100 --lossname triplet --opt adm --lr 0.0001 --device cpu --envplotter main
+
+--netname: Type of network for training (alexnet, vgg, resnet).
+--nepoch: Number of epochs.
+--lossname: Type of loss (triplet, contrast).
+--opt: Type of optimizer (adm, sgd).
+--lr: Learning rate.
+--device: Type of device for train. (cpu, cuda).
+--envplotter: name of the environment inside of Visdom.
+
+
 
 ```
 
