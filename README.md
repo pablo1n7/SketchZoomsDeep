@@ -19,8 +19,18 @@ Finding point-wise correspondences between images is a long-standing problem in 
 
 ## Dataset
 
-Download the dataset (link soon) and put in $SketchZoomsDeep/data$
-
+Download the dataset (link soon) and put in `SketchZoomsDeep/data`.
+      
+```
+SketchZoomsDeep
+└── data
+    ├── csv
+    ├── pts_Airplane
+    ├── pts_Table
+    ├── ..
+    ├── pts_Car
+```
+            
 ## Code
 
 ## Citation
