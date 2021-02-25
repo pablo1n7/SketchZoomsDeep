@@ -15,7 +15,7 @@ Finding point-wise correspondences between images is a long-standing problem in 
 </p>
 
 
-Left: Given a precompiled data set of 3D shapes augmented with correspondences data, we automatically generate line drawings at different scales and positions using a state-of-the-art non-photorealistic render engine. Right: We then take these line drawings as inputs for our convolutional neural network in order to learn local multi-view descriptors. Our triplet loss training scheme embeds semantically similar sketch points close together in descriptor space. Notice how matching points are mapped together independently of projection angle. Our multi-view architecture jointly with fully connected layers reduce the descriptor size while max pooling layers aggregate important information across input view
+> Left: Given a precompiled data set of 3D shapes augmented with correspondences data, we automatically generate line drawings at different scales and positions using a state-of-the-art non-photorealistic render engine. Right: We then take these line drawings as inputs for our convolutional neural network in order to learn local multi-view descriptors. Our triplet loss training scheme embeds semantically similar sketch points close together in descriptor space. Notice how matching points are mapped together independently of projection angle. Our multi-view architecture jointly with fully connected layers reduce the descriptor size while max pooling layers aggregate important information across input view
 
 ## Dataset
 Soon
