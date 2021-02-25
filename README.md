@@ -37,7 +37,7 @@ Download the weights [here](https://drive.google.com/file/d/1ctfZJ0OlVqH1HGgiRSy
             
 ## Examples 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BEEtAu2ttyRV_6AvJtw7o6zVwYtUcrDt?usp=sharing)
+Run with Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BEEtAu2ttyRV_6AvJtw7o6zVwYtUcrDt?usp=sharing)
 
 
 Using python 3.8.5 install the dependencies:
