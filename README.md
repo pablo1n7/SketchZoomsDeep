@@ -47,7 +47,7 @@ visdom
 
 ```
 
-and them, execute this:
+and them, execute the script of train:
 
 ```bash
 
