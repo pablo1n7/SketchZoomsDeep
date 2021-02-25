@@ -48,6 +48,11 @@ pip install - r requirements.txt
 
 ```
 
+[Notebook for view how instances the network and how to use](https://github.com/pablo1n7/SketchZoomsDeep/blob/main/example_dataset.ipynb)
+
+[Notebook for test matching](https://github.com/pablo1n7/SketchZoomsDeep/blob/main/test_match.ipynb)
+
+
 ## Train
 
 In a console, start visdom server for view the process of training
