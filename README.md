@@ -39,6 +39,25 @@ Download the weights [here](https://drive.google.com/file/d/1ctfZJ0OlVqH1HGgiRSy
 
 ## Train
 
+```bash
+
+visdom
+
+```
+
+
+```bash
+python train_net.py 
+        --netname alexnet 
+        --nepoch 2 
+        --lossname triplet 
+        --opt adm 
+        --lr 0.0001 
+        --device cpu 
+        --envplotter main
+
+```
+
 
 
 ## Citation
