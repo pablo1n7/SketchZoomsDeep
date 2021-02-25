@@ -37,6 +37,14 @@ Download the weights [here](https://drive.google.com/file/d/1ctfZJ0OlVqH1HGgiRSy
             
 ## Examples
 
+Using python 3.8.5 install the dependencies:
+
+```bash
+
+pip install - r requirements.txt
+
+```
+
 ## Train
 
 In a console, start visdom server for view the process of training
