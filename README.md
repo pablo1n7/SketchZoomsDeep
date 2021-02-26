@@ -10,7 +10,7 @@ Finding point-wise correspondences between images is a long-standing problem in 
 
 [![arXiv](https://img.shields.io/badge/arXiv-1912.05019-f9f107.svg)](https://arxiv.org/abs/1912.05019)
 
-[![paper](https://img.shields.io/badge/Paper-doi.org/10.1111/cgf.14197-f9f107.svg)](https://doi.org/10.1111/cgf.14197)
+[![DOI](https://img.shields.io/badge/DOI-10.1111/cgf.14197-f9f107.svg)](https://doi.org/10.1111/cgf.14197)
 
 
 
